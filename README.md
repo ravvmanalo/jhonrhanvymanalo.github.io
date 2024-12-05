@@ -17,9 +17,9 @@ Web design principles and UI/UX best practices
 I’m Jhonrhanvy Pacion Manalo, a dedicated Web Developer and Software Engineer with over 6 years of experience. Throughout my career, I have had the privilege of working with industry leaders like Tesla, where I focused on Front-end Development. I specialized in React.js and Vue.js to build responsive and user-friendly interfaces for customer-facing web applications. By ensuring seamless performance across various devices, I helped improve the overall user experience and enhanced customer satisfaction.
 
 # Contact Form
-Email: jhonrhanvymanalo@gmail.com
-Phone: 09454768752
-Facebook: fb.com/jhonrave.manalo
+Email: jhonravemanalo@gmail.com
+Phone: 09454768725
+Facebook: fb.com/zorenrave.manalo
   
 
 
